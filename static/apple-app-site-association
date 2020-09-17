@@ -1,0 +1,13 @@
+{
+  "activitycontinuation": { "apps": ["G63K2Y232C.me.goeat.ios"] },
+  "webcredentials": { "apps": ["G63K2Y232C.me.goeat.ios"] },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "G63K2Y232C.me.goeat.ios",
+        "paths": ["/screen/*"]
+      }
+    ]
+  }
+}

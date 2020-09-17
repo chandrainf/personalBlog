@@ -1,0 +1,14 @@
+title: Skill
+intro: 'HTML, CSS, JS, BACK-END, FRONT-END, REACT, REACT-NATIVE,...'
+items:
+  - description: 'work with express, postgresQL,....'
+    icon: 'https://res.cloudinary.com/csmenouvo/image/upload/v1557043510/server.png'
+    title: Back-End Developer
+  - description: 'react, html, css, js,...'
+    icon: >-
+      https://res.cloudinary.com/csmenouvo/image/upload/v1557043423/web-fron-end.png
+    title: Web Front-end
+  - description: react-native
+    icon: >-
+      https://res.cloudinary.com/csmenouvo/image/upload/v1557043520/mobile-app.png
+    title: Mobile App Front-end

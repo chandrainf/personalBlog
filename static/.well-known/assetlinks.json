@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goeat.me",
+      "sha256_cert_fingerprints": [
+        "0F:1E:0A:13:79:C6:8B:7B:D4:85:8B:E0:1A:85:6B:13:FA:54:69:4D:E1:56:55:AE:7B:3C:9F:F1:74:F0:4B:55"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goeat.me",
+      "sha256_cert_fingerprints": [
+        "B2:22:F8:75:BD:D3:ED:33:BD:E6:93:17:5B:09:34:86:88:0A:B5:62:55:A2:79:1B:DE:A4:A6:3C:2D:9C:A9:CD"
+      ]
+    }
+  }
+]

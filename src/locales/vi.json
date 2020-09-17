@@ -1,0 +1,34 @@
+{
+  "defaultTitle": "doananh234",
+  "logo": "https://doananh234.com/favicon/logo-48.png",
+  "author": "Anh Doan (doananh234)",
+  "url": "https://doananh234.com",
+  "legalName": "Anh Doan",
+  "defaultDescription": "I'm Anh Doan aka doananh234, a self-taught Graphic and full stack developer, interested in the web, neural networks & tech in general.",
+  "socialLinks": {
+    "twitter": "https://twitter.com/doananh234",
+    "github": "https://github.com/doananh234",
+    "linkedin": "https://www.linkedin.com/in/anh-doan-83b116138/",
+    "instagram": "https://www.instagram.com/doananh234/",
+    "youtube": "https://www.youtube.com/channel/UCvNqtyEGfXfWcKVdcO6QvcQ"
+  },
+  "googleAnalyticsID": "UA-88875900-1",
+  "themeColor": "#00c6ff",
+  "backgroundColor": "#00c6ff",
+  "siteRss": "/rss.xml",
+  "social": {
+    "facebook": "100000217272538",
+    "twitter": "@doananh234"
+  },
+  "address": {
+    "city": "Da Nang",
+    "region": "Da Nang",
+    "country": "Viet Nam",
+    "zipCode": "550000"
+  },
+  "contact": {
+    "email": "doananh234@gmail.com",
+    "phone": "+84789472011"
+  },
+  "foundingDate": "2018"
+}
